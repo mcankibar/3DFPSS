@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 5bdb548755818444c8371461a86700cf
+  - enabled: 1
+    path: Assets/Scenes/KURTARMA/KURTARMA.unity
+    guid: e7f798c5a7e1f314192c63b7b66b74fe
   m_configObjects: {}

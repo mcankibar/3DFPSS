@@ -9,6 +9,7 @@ TagManager:
   - Hand
   - Enemy
   - GunSound
+  - Barrel
   layers:
   - Default
   - TransparentFX
@@ -18,9 +19,9 @@ TagManager:
   - UI
   - Interactable
   - InvisibleLayer
-  - 
-  - 
-  - 
+  - Enemy
+  - Minimap
+  - Terrain
   - 
   - 
   - 
